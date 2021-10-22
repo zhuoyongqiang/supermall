@@ -1,4 +1,7 @@
 # supermall
+```
+学习codewhy老师蘑菇街项目
+```
 
 ## Project setup
 ```
